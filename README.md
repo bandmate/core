@@ -1,1 +1,1 @@
-Bandmate is an online portal for musicians to collaborate and for concert organizers to find them.
+Bandmate is an online portal for musicians to collaborate and for concert organizers to find them. Bandmate mainly targets bands who are looking for new members or musicians who are looking for bandmates.
